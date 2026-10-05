@@ -1,0 +1,29 @@
+# Assignment documents
+*.pdf
+*.PDF
+
+# Runtime uploads, downloads, and chat logs
+/client_files/
+/server_files/
+
+# Local placeholder and test artifacts
+/run_test.py
+/test.txt
+
+# Python bytecode and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration and editor files
+.env
+.env.*
+.idea/
+.vscode/
+.DS_Store
+
+# Local agent configuration
+.agents/
+.codex/
+.aws/
